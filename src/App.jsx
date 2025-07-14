@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { mockProducts, mockUsers } from './data/mockData';
+import { mockProducts, mockUsers } from '../public/data/mockData';
 import LandingPage from './components/LandingPage';
 import CustomerDashboard from './components/CustomerDashboard';
 import SupplierDashboard from './components/SupplierDashboard';
